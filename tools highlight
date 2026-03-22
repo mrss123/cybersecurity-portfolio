@@ -1,0 +1,66 @@
+1. Nmap (Network Scanning & Enumeration)
+
+Used to discover hosts, open ports, and services.
+
+## 2. Wireshark (Packet Analysis)
+
+Used to capture and analyze network traffic.
+
+## 3. Burp Suite (Web Application Testing)
+
+Used for intercepting and modifying HTTP/HTTPS requests.
+
+##4. SQLmap (SQL Injection Automation)
+
+Used to detect and exploit SQL injection vulnerabilities.
+
+## 5. Gobuster (Directory/File Brute-forcing)
+
+Used to find hidden directories and files on web servers.
+
+## 6. Dirsearch (Web Content Discovery)
+
+Alternative to Gobuster with more features.
+
+## 7. Hydra (Password Cracking / Brute Force)
+
+Used for brute-forcing login credentials.
+
+## 8. John the Ripper (Password Cracking)
+
+Used to crack hashed passwords.
+
+## 9. Hashcat (Advanced Password Cracking)
+
+GPU-based password cracking tool.
+
+## 10. Steghide (Steganography – Data Hiding)
+
+Used to hide/extract data inside images.
+
+## 11. Binwalk (File Carving & Analysis)
+
+Used to detect and extract embedded files.
+
+## 12. Strings (Data Extraction)
+
+Used to extract readable text from binaries.
+
+## 13. Grep (Pattern Searching)
+
+Used to search for patterns like flags or credentials.
+
+## 14. Netcat (nc) (Networking Utility)
+
+Used for banner grabbing, reverse shells, and connections.
+
+## 15. OpenSSL (SSL/TLS Analysis)
+
+Used to inspect certificates and encrypted connections.
+
+## 16. SSH (Remote Access)
+
+Used to securely connect to remote machines.
+
+🧠 Optional (Nice addition for your repo)
+17. Stegseek (Fast Steghide Cracker)
