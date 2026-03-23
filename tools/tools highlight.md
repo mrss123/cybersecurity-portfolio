@@ -62,5 +62,7 @@ Used to inspect certificates and encrypted connections.
 
 Used to securely connect to remote machines.
 
-🧠 Optional (Nice addition for your repo)
-17. Stegseek (Fast Steghide Cracker)
+## 17. Stegseek (Fast Steghide Cracker)
+
+used to bruteforse a steghide locked images or any other files 
+
