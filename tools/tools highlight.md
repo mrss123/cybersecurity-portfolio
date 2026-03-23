@@ -1,4 +1,4 @@
-1. Nmap (Network Scanning & Enumeration)
+## 1. Nmap (Network Scanning & Enumeration)
 
 Used to discover hosts, open ports, and services.
 
